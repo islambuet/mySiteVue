@@ -1,7 +1,7 @@
 export var labels={
     label_site_title:{
-        en:"Nasa Api",
-        bn:"Nasa Api"
+        en:"Shaiful Islam",
+        bn:"সাইফুল ইসলাম"
     },
     //header section
     label_change_language:{
