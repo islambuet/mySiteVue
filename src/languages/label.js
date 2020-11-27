@@ -36,8 +36,8 @@ export var labels={
     },
     
     label_dashboard:{
-        en:"Dashboard",
-        bn:"ড্যাশবোর্ড"
+        en:"Home",
+        bn:"হোম"
     },  
     label_about_me:{
         en:"About Me",
