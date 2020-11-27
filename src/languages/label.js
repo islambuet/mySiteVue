@@ -38,7 +38,11 @@ export var labels={
     label_dashboard:{
         en:"Dashboard",
         bn:"ড্যাশবোর্ড"
-    },      
+    },  
+    label_about_me:{
+        en:"About Me",
+        bn:"আমার সম্পর্কে"
+    },    
     label_id:{
         en:"ID",
         bn:"আই.ডি."

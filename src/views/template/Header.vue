@@ -2,7 +2,7 @@
     <a-layout-header :style="{ background: '#fff'}" :class="'d-print-none'">
         <div :style="{float:'right'}">
             <img :src="$system_variables.user.profile_picture" v-if="$system_variables.user.profile_picture" alt="profileImage" class="rounded-circle" :style="{height:'32px',width:'32px'}">
-            <img :src="'/images/logo.png'" v-else alt="Image" class="rounded-circle" :style="{height:'32px',width:'32px'}">
+            <img :src="'/images/me.jpg'" v-else alt="Image" class="rounded-circle" :style="{height:'32px',width:'32px'}">
             <a-dropdown :trigger="['click']" :style="{float:'right'}">
                 <a class="ant-dropdown-link" @click.prevent>
                  <a-icon type="down" />
