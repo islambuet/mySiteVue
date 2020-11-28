@@ -27,7 +27,7 @@ export default {
     return {
       columns: [{title: 'Name',dataIndex: 'name'},{title: 'Link',dataIndex: 'link',scopedSlots: { customRender: 'name' }},{title: 'Resource',dataIndex: 'resource'},{title: 'Descriptoin',dataIndex: 'descriptoin'}],
       data:[{name: 'Laravel','link':'https://laravel.shaiful.me',resource:"Laravel",descriptoin:"Laravel Demo"},
-        {name: 'vueSqlite','link':'http://vuesqlite.shaiful.me/ ',resource:"Vue.js",descriptoin:"Sqlite without any Database"},
+        {name: 'vueSqlite','link':'http://vuesqlite.shaiful.me/ ',resource:"Vue.js",descriptoin:"Sqlite Database.No server Language"},
         {name: 'Facebook API','link':'https://fb.shaiful.me ',resource:"Vue.js,Facebook API",descriptoin:"Facebook API Demo"},
         {name: 'Nasa API','link':'https://vuenasa.shaiful.me  ',resource:"Vue.js. Nasa API",descriptoin:"Nasa API Demo"},
       ]
