@@ -43,6 +43,10 @@ export var labels={
         en:"About Me",
         bn:"আমার সম্পর্কে"
     },    
+    label_privacy_policy_8_puzzle:{
+        en:"Privacy Policy 8 Puzzle",
+        bn:"Privacy Policy 8 Puzzle"
+    },    
     label_id:{
         en:"ID",
         bn:"আই.ডি."

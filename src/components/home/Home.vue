@@ -20,7 +20,8 @@ export default {
   mounted:function()
   {
       this.$system_variables.status_task_loaded=1;  
-      this.$system_variables.status_data_loaded=1;   
+      this.$system_variables.status_data_loaded=1;  
+      this.$system_functions.set_page_title(this.$system_functions.get_label('label_site_title')); 
            
   },
   data() {

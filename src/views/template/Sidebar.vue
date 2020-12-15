@@ -13,6 +13,7 @@
       <a-menu theme="dark" mode="inline">
         <a-menu-item @click="on_task_click"> <router-link to="/">{{$system_functions.get_label('label_dashboard')}}</router-link></a-menu-item>        
         <a-menu-item @click="on_task_click"> <router-link to="/about-me">{{$system_functions.get_label('label_about_me')}}</router-link></a-menu-item>        
+        <a-menu-item @click="on_task_click"> <router-link to="/privacy-policy-8-puzzle">{{$system_functions.get_label('label_privacy_policy_8_puzzle')}}</router-link></a-menu-item>        
         <sub-menu v-for="item in $system_variables.user.tasks" :key="item.id" :menu-info="item" :on_task_click="on_task_click"/> 
       </a-menu>             
     </div>
