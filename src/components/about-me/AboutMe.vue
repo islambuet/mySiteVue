@@ -13,11 +13,12 @@
             <tbody class="ant-table-tbody">
               <tr>
                 <td><strong>Email</strong></td>
-                <td>shaiful@shaiful.me</td>
+                <td>shaiful@shaiful.com.bd</td>
               </tr>
               <tr>
                 <td><strong>Job Experience</strong></td>
                 <td>
+                  Aclusterllc (February 2022 – Present) <br>
                   DISB Solution (Pvt.) Ltd (February 2016 – October 2020) <br>
                   Soft BD Ltd (May 2014 – January 2016) <br>
                   Boo2 (February 2013 - April 2014) <br>
@@ -28,16 +29,16 @@
                 <td><strong>Programing</strong></td>
                 <td>
                   <strong>Current</strong> <br>                  
-                    •	Frontend :vue.js <br>
-                    •	Backend; Codeigniter-3/Laravel8 <br>
-                    •	Language: PHP <br>
+                    •	Frontend : Electron JS <br>
+                    •	Backend: Java <br>
+                    •	Language: Java <br>
                     •	Database: Mysql <br>
-                  <strong>Previous</strong> <br>                      
+                  <strong>Previous</strong> <br>
+                    •	Laravel8, Codeigniter(2,3), Slim, Cakephp -3  <br>
+                    •	Javascript, jQuery, Vue.js <br>
                     •	Android development <br>
                     •	Joomla,wordpress <br>
-                    •	Slim, Cakephp -3,laravel <br>
                     •	Oracle database with Codeigner-2 framwrok <br>
-                    •	Javascipt,jquery <br>
                     •	Java,.Net <br>
                 </td>
               </tr>
